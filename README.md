@@ -27,6 +27,7 @@ The workflow is implemented in two phases:
 - **DBSCAN clustering** identified high‑variability sSFR regions, guiding future astronomical observations.
 - An **interactive visualisation tool** was developed for exploring predictions and spatial trends.
 
+
 ---
 
 ## 🛰 Data Source
@@ -63,6 +64,8 @@ The workflow is implemented in two phases:
   - Zoom & pan
   - Highlight DBSCAN clusters
   - Overlay photometric redshift distributions
+ 
+<img width="847" height="612" alt="image" src="https://github.com/user-attachments/assets/b5fb976b-63cd-48fb-a95a-2003afb17182" />
 
 ---
 
