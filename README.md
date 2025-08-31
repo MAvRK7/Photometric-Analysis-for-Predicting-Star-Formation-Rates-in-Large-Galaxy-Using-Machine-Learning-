@@ -46,6 +46,11 @@ The workflow is implemented in two phases:
 - **Long Short‑Term Memory (LSTM) Networks**
 - **Classical Deep Learning Models**
 
+## Flow Chart of Phase I
+
+  <img width="565" height="649" alt="image" src="https://github.com/user-attachments/assets/ee1e187e-cd7b-463d-896d-a6097c41b952" />
+
+
 ---
 
 ## 📊 Performance Summary
@@ -77,6 +82,10 @@ The workflow is implemented in two phases:
 | 6          |  45–55        | –10–0           | Outliers in colour–magnitude space, possible AGN contamination |
 
 > These ROIs can be prioritised for **follow‑up spectroscopic surveys** to validate ML/DL‑based predictions.
+
+## Flow Chart showing Phase II
+
+<img width="580" height="661" alt="image" src="https://github.com/user-attachments/assets/f8d8430b-a4e2-467c-8de3-b7736a70d93b" />
 
 ---
 
